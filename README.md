@@ -1,7 +1,7 @@
 # 3utool
 3utool, cài đặt và sử dụng
 
-# tải 3utool 
+# tải 3utool : https://www.3u.com/
 </br>
 - Mở 3utool lên
 - Chọn cài đặt iTune hoặc Drive
