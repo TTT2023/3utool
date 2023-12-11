@@ -7,6 +7,10 @@
 - Chọn cài đặt iTune hoặc Drive
 - Chọn **Flash** -> **Firmware**
 
+![image](https://github.com/TTT2023/3utool/assets/86475978/f028b3b2-1a14-492e-b2e9-25f33c0379f7)
+
+
+
  ![image](https://github.com/TTT2023/3utool/assets/86475978/5e1a0a1d-bea2-4804-b72e-18b63ae19f88)
 
   
